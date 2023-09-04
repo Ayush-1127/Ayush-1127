@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Gupta</h1>
-<h3 align="center">A passionate Computer Science Engineering</h3>
+<h3 align="center">A passionate Computer Science Engineer</h3>
 <!--<img align="right" alt="Coding" width="350" src="https://miro.medium.com/v2/resize:fit:1600/0*C-cPP9D2MIyeexAT.gif"> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-1127&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-1127" /> </p>
 
